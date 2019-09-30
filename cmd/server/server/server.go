@@ -1,11 +1,11 @@
 package server
 
 import (
-	"Envoy-Pilot/cmd/server/metrics"
-	"Envoy-Pilot/cmd/server/model"
-	"Envoy-Pilot/cmd/server/service"
-	"Envoy-Pilot/cmd/server/storage"
-	"Envoy-Pilot/cmd/server/util"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/metrics"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/model"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/service"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/storage"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 	"context"
 	"errors"
 	"log"

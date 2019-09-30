@@ -1,7 +1,7 @@
 package metrics
 
 import (
-	"Envoy-Pilot/cmd/server/model"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/model"
 	"log"
 	"net/http"
 

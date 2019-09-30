@@ -1,7 +1,7 @@
 package server
 
 import (
-	"Envoy-Pilot/cmd/server/constant"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/constant"
 	"context"
 
 	"github.com/envoyproxy/go-control-plane/envoy/api/v2"

@@ -1,7 +1,7 @@
 package mapper
 
 import (
-	"Envoy-Pilot/cmd/server/util"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 	"errors"
 	"fmt"
 	"log"

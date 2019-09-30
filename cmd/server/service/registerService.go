@@ -1,8 +1,8 @@
 package service
 
 import (
-	"Envoy-Pilot/cmd/server/model"
-	"Envoy-Pilot/cmd/server/storage"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/model"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/storage"
 	"context"
 	"log"
 

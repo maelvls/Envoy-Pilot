@@ -1,7 +1,7 @@
 package mapper
 
 import (
-	xdsUtil "Envoy-Pilot/cmd/server/util"
+	xdsUtil "github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 	"errors"
 	"fmt"
 	"log"
@@ -12,7 +12,7 @@ import (
 	"github.com/gogo/protobuf/proto"
 	"github.com/gogo/protobuf/types"
 
-	pilot_util "Envoy-Pilot/cmd/server/util"
+	pilot_util "github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 
 	envoy_api_v2_core1 "github.com/envoyproxy/go-control-plane/envoy/api/v2/core"
 	envoy_api_v2_endpoint "github.com/envoyproxy/go-control-plane/envoy/api/v2/endpoint"

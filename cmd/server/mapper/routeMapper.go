@@ -6,7 +6,7 @@ import (
 	"log"
 	"runtime/debug"
 
-	xdsUtil "Envoy-Pilot/cmd/server/util"
+	xdsUtil "github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 
 	"github.com/envoyproxy/go-control-plane/envoy/api/v2"
 	"github.com/envoyproxy/go-control-plane/pkg/cache"

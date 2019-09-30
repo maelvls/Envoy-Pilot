@@ -1,13 +1,13 @@
 package main
 
 import (
-	"Envoy-Pilot/cmd/server/constant"
-	"Envoy-Pilot/cmd/server/dump"
-	"Envoy-Pilot/cmd/server/metrics"
-	"Envoy-Pilot/cmd/server/server"
-	"Envoy-Pilot/cmd/server/service"
-	"Envoy-Pilot/cmd/server/storage"
-	myUtil "Envoy-Pilot/cmd/server/util"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/constant"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/dump"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/metrics"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/server"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/service"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/storage"
+	myUtil "github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 	"fmt"
 	"log"
 	"net"

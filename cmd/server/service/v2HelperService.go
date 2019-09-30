@@ -1,7 +1,7 @@
 package service
 
 import (
-	"Envoy-Pilot/cmd/server/constant"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/constant"
 	"fmt"
 
 	"github.com/envoyproxy/go-control-plane/pkg/cache"

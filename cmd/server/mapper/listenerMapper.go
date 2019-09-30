@@ -1,7 +1,7 @@
 package mapper
 
 import (
-	xdsUtil "Envoy-Pilot/cmd/server/util"
+	xdsUtil "github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 	"errors"
 	"fmt"
 	"log"

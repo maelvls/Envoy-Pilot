@@ -1,9 +1,9 @@
 package storage
 
 import (
-	"Envoy-Pilot/cmd/server/cache"
-	"Envoy-Pilot/cmd/server/model"
-	"Envoy-Pilot/cmd/server/util"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/cache"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/model"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 	"fmt"
 	"log"
 

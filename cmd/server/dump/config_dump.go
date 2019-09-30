@@ -1,12 +1,12 @@
 package dump
 
 import (
-	"Envoy-Pilot/cmd/server/cache"
-	"Envoy-Pilot/cmd/server/mapper"
-	"Envoy-Pilot/cmd/server/model"
-	"Envoy-Pilot/cmd/server/service"
-	"Envoy-Pilot/cmd/server/storage"
-	"Envoy-Pilot/cmd/server/util"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/cache"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/mapper"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/model"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/service"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/storage"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/util"
 	"encoding/json"
 	"fmt"
 	"log"

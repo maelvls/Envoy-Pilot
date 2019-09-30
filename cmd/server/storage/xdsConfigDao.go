@@ -1,8 +1,8 @@
 package storage
 
 import (
-	"Envoy-Pilot/cmd/server/constant"
-	"Envoy-Pilot/cmd/server/model"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/constant"
+	"github.com/tak2siva/Envoy-Pilot/cmd/server/model"
 	"fmt"
 )
 
